@@ -1,6 +1,9 @@
 # education
+Yassine Assaadi : Education data analysis project
 
-![Diapositive1](https://github.com/Yassaadi/education/assets/106546639/cf2eb374-c5d9-4578-ba67-176444d1973e)
+Data source: https://datacatalog.worldbank.org/search/dataset/0038480
+(Banque mondiale)
+
 ![Diapositive2](https://github.com/Yassaadi/education/assets/106546639/7243fed7-5df8-4441-862c-c44bc8ef9bbb)
 ![Diapositive3](https://github.com/Yassaadi/education/assets/106546639/fff25792-e1dd-4483-8be6-412b27363c5f)
 ![Diapositive4](https://github.com/Yassaadi/education/assets/106546639/1642df97-a6f7-47f1-8d29-e9a19e06f636)
