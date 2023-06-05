@@ -4,6 +4,24 @@ Yassine Assaadi : Education data analysis project
 Data source: https://datacatalog.worldbank.org/search/dataset/0038480
 (Banque mondiale)
 
+# Objective
+
+The project objective is to conduct a pre-analysis of the dataset to:
+
+Validate the quality of the dataset by checking for missing or duplicated data.
+
+Describe the information contained in the dataset, including the number of columns and rows.
+
+Select the relevant information that can address the company's problem. Identify the columns containing useful information for addressing the company's challenge.
+
+Determine the order of magnitude for classical statistical indicators across different geographical areas and countries worldwide. Calculate metrics such as mean, median, and standard deviation by country, continent, or geographical block.
+
+Use the analysis to determine if the dataset can provide insights for decision-making regarding the expansion into new countries.
+
+Present the analysis to the board, ensuring a well-crafted presentation with clear and relevant graphs to support the findings.
+
+The outcome of this work will help the company evaluate the dataset's potential to inform decisions regarding the expansion into new countries.
+
 ![Diapositive2](https://github.com/Yassaadi/education/assets/106546639/7243fed7-5df8-4441-862c-c44bc8ef9bbb)
 ![Diapositive3](https://github.com/Yassaadi/education/assets/106546639/fff25792-e1dd-4483-8be6-412b27363c5f)
 ![Diapositive4](https://github.com/Yassaadi/education/assets/106546639/1642df97-a6f7-47f1-8d29-e9a19e06f636)
